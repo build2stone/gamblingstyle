@@ -79,7 +79,6 @@ public class GuiTradingBook extends Gui
         this.searchField.setMaxStringLength(50);
         this.searchField.setEnableBackgroundDrawing(false);
         this.searchField.setFocused(true);
-        this.searchField.setCanLoseFocus(false);
         this.searchField.setTextColor(16777215);
         this.refresh = true;
 
